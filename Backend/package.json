@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loader.js",
+  "scripts": {
+    "dev": "nodemon",
+    "production": "pm2 start loader.js --name backend"
+  },
+  "author": "Érica Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^5.14.1",
+    "express": "^4.16.4",
+    "express-query-int": "^3.0.0",
+    "multer": "^1.4.1",
+    "pg": "^7.8.0",
+    "pm2": "^3.2.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

@@ -1,0 +1,10 @@
+CREATE TABLE public.livro
+(
+    id integer NOT NULL DEFAULT nextval('livro_id_seq'::regclass),
+    titulo character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    autor character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    editora character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    resumo character varying(500) COLLATE pg_catalog."default" NOT NULL,
+    imagem character varying(300) COLLATE pg_catalog."default",
+    CONSTRAINT livro_pkey PRIMARY KEY (id)
+)
