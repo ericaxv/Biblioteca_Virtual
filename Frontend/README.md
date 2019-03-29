@@ -141,29 +141,6 @@ For transparency into our release cycle and in striving to maintain backward com
 
 See [the Releases section of our project](https://github.com/coreui/coreui-free-react-admin-template/releases) for changelogs for each release version.
 
-## Creators
-
-**Łukasz Holeczek**
-* <https://twitter.com/lukaszholeczek>
-* <https://github.com/mrholek>
-
-**Andrzej Kopański**
-* <https://github.com/xidedix>
-
-## Community
-
-Get updates on CoreUI's development and chat with the project maintainers and community members.
-
-- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
-- Read and subscribe to [CoreUI Blog](https://coreui.ui/blog/).
-
-### Community Projects
-
-Some of projects created by community but not maintained by CoreUI team.
-
-* [NuxtJS + Vue CoreUI](https://github.com/muhibbudins/nuxt-coreui)
-* [Colmena](https://github.com/colmena/colmena)
-* [mvelosop/AspNetCore2CoreUI](https://github.com/mvelosop/AspNetCore2CoreUI)
 
 ## Copyright and license
 
