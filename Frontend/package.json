@@ -30,7 +30,7 @@
     "react-toastify": "^4.5.2",
     "reactstrap": "^7.0.2",
     "simple-line-icons": "^2.4.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "react-scripts": "2.1.3"
